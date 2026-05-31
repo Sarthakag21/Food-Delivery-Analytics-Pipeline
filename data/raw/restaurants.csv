@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine_type,city,avg_preparation_time,restaurant_rating
+1,"Borde, Chaudhuri and Kunda",Fast Food,Ahemdabad,25,2.9
+2,"Kashyap, Shan and Minhas",Fast Food,Bangalore,45,4.6
+3,Shetty-Bedi,Desserts,Delhi,10,3.6
+4,Ghosh Inc,Chinese,Kanpur,40,4.4
+5,Parsa-Munshi,Chinese,Mumbai,41,2.3
+6,D’Alia-Chandran,Italian,Pune,13,3.0
+7,Andra and Sons,Desserts,Ahemdabad,34,2.6
+8,"Garde, Narasimhan and Parmar",Chinese,Mumbai,39,2.8
+9,Loyal-Chander,Desserts,Chandigarh,15,4.4
+10,Oommen-Goswami,Fast Food,Chennai,17,4.9
+11,Rattan Group,Indian,Mumbai,35,2.6
+12,Magar-Rajan,Desserts,Kanpur,10,4.3
+13,"Sridhar, Sama and Ganesan",Desserts,Kolkata,29,4.6
+14,Deo Ltd,Desserts,Hyderabad,39,4.8
+15,"Bhargava, Dutta and Chawla",Italian,Delhi,24,4.4
+16,Subramanian-Sarma,Italian,Kanpur,40,3.9
+17,Raghavan LLC,Italian,Chandigarh,17,1.4
+18,"Balakrishnan, De and Subramanian",Chinese,Delhi,31,2.4
+19,Chowdhury-Sabharwal,Italian,Kanpur,43,2.5
+20,Batra-Bhatnagar,Indian,Delhi,20,3.0
+21,Murthy-Arora,Fast Food,Mumbai,26,3.4
+22,"Vohra, Kapur and Nigam",Chinese,Mumbai,35,1.9
+23,"Virk, Chandran and Sant",Chinese,Chennai,16,4.0
+24,"Kothari, Subramaniam and Pal",Indian,Ahemdabad,17,4.1
+25,"Rajan, Dixit and Bhagat",Fast Food,Chandigarh,42,1.5
+26,Dugar PLC,Fast Food,Delhi,43,3.9
+27,Tandon-Gandhi,Desserts,Jaipur,40,4.7
+28,Swamy LLC,Chinese,Kolkata,21,3.9
+29,Narayanan LLC,Chinese,Mumbai,34,3.6
+30,Tripathi and Sons,Desserts,Chennai,42,4.5
+31,"Radhakrishnan, Rau and Keer",Fast Food,Kolkata,25,2.1
+32,Sharaf Group,Italian,Pune,38,4.2
+33,"Sem, Chakrabarti and Tara",Chinese,Jaipur,42,2.2
+34,Mutti-Dani,Desserts,Chennai,45,3.5
+35,Badami-Chauhan,Chinese,Hyderabad,28,3.7
+36,Sachar-Banik,Chinese,Ahemdabad,21,3.0
+37,"Acharya, Chand and Modi",Italian,Mumbai,32,3.2
+38,"Jhaveri, Shan and Om",Desserts,Kolkata,36,3.7
+39,Bhagat-Kapoor,Desserts,Pune,37,4.2
+40,Narula-Solanki,Desserts,Mumbai,11,2.5
+41,"Patla, Sethi and Comar",Indian,Ahemdabad,13,1.8
+42,Kapadia Inc,Chinese,Pune,26,1.6
+43,Pant-Manne,Indian,Pune,23,4.0
+44,"Vig, Prakash and Cherian",Indian,Chennai,38,1.4
+45,Gala Group,Desserts,Hyderabad,45,2.6
+46,Rout Inc,Desserts,Pune,13,4.7
+47,Hayre-Guha,Fast Food,Jaipur,30,4.9
+48,Ramaswamy and Sons,Indian,Delhi,26,1.8
+49,Halder-Nigam,Fast Food,Hyderabad,33,4.0
+50,Sachdeva Inc,Desserts,Kolkata,22,4.1
+51,"Dasgupta, Seshadri and Shankar",Chinese,Pune,38,1.7
+52,"Thaman, Desai and Tara",Indian,Bangalore,21,3.9
+53,Wali Ltd,Indian,Jaipur,12,2.7
+54,Sant PLC,Desserts,Pune,18,1.6
+55,Trivedi-Goel,Italian,Delhi,31,2.9
+56,"Ghose, Dave and Chawla",Chinese,Delhi,19,4.7
+57,Nagy-Thaman,Desserts,Delhi,29,3.0
+58,Sahota-Kothari,Desserts,Kanpur,32,1.3
+59,Rao-Oza,Italian,Kanpur,24,4.8
+60,Sethi-Deol,Desserts,Mumbai,42,1.6
+61,Sachar PLC,Desserts,Kanpur,35,1.4
+62,"Vala, Mistry and Murthy",Chinese,Hyderabad,31,2.3
+63,"Kalla, Iyer and Kadakia",Italian,Hyderabad,43,2.9
+64,"Mannan, Pai and Deo",Desserts,Ahemdabad,10,1.5
+65,"Gokhale, Thakur and Naidu",Italian,Chandigarh,25,4.6
+66,"D’Alia, Pandey and Srinivasan",Desserts,Kolkata,25,4.8
+67,"Sahni, Walla and Mangal",Italian,Jaipur,17,2.5
+68,Arya-Virk,Desserts,Pune,11,4.6
+69,Bakshi Group,Italian,Kanpur,42,2.8
+70,Bera Ltd,Indian,Pune,22,2.3
+71,Iyengar LLC,Indian,Mumbai,20,4.9
+72,Mangat Ltd,Desserts,Kanpur,10,3.5
+73,Dhingra-Bhatia,Chinese,Ahemdabad,23,4.5
+74,"Merchant, Jani and Bali",Fast Food,Mumbai,23,3.2
+75,Sethi-Chaudry,Fast Food,Ahemdabad,14,4.0
+76,"Kapur, Ramachandran and Khanna",Chinese,Delhi,39,3.9
+77,"Mani, Batta and Raj",Indian,Mumbai,14,1.2
+78,Saha-Munshi,Italian,Kanpur,14,3.3
+79,"Bhagat, Arya and Krishnamurthy",Chinese,Pune,36,2.6
+80,Savant and Sons,Fast Food,Jaipur,30,1.1
+81,"Pillai, Hegde and Hari",Indian,Kanpur,10,3.6
+82,Sen-Goel,Desserts,Mumbai,12,3.8
+83,"Borde, Grover and Ghose",Indian,Chennai,42,1.4
+84,"Varkey, Dar and Purohit",Italian,Kolkata,15,2.1
+85,Sangha LLC,Fast Food,Jaipur,35,4.3
+86,"Lalla, De and Dyal",Indian,Chandigarh,20,3.1
+87,"Kumer, Ahluwalia and Narayanan",Chinese,Jaipur,44,2.2
+88,Dubey-Baral,Chinese,Pune,33,4.8
+89,Naidu PLC,Indian,Kanpur,45,1.6
+90,Mitra Group,Indian,Delhi,35,3.1
+91,"Parmar, Bora and Nadkarni",Indian,Pune,23,4.0
+92,"Kannan, Gour and Verma",Italian,Hyderabad,36,4.6
+93,Tiwari and Sons,Desserts,Bangalore,20,1.7
+94,Yadav-Raval,Desserts,Pune,22,1.5
+95,Palla and Sons,Desserts,Delhi,45,2.8
+96,Narula LLC,Desserts,Mumbai,28,3.7
+97,Memon-Kamdar,Italian,Mumbai,22,3.9
+98,"Wali, Soman and Andra",Fast Food,Chennai,32,1.5
+99,Pal Group,Chinese,Mumbai,28,3.5
+100,Kohli Inc,Chinese,Chennai,41,2.8
+101,"Nagi, Raj and Comar",Desserts,Ahemdabad,29,3.8
+102,Kunda-Zachariah,Chinese,Kolkata,33,4.2
+103,"Mandal, Bakshi and Varughese",Fast Food,Bangalore,10,2.3
+104,Varkey-Trivedi,Chinese,Ahemdabad,37,2.1
+105,Sur-Bassi,Italian,Bangalore,31,4.5
+106,Hans-Nagi,Fast Food,Chandigarh,32,4.1
+107,"Butala, Char and Ganesh",Fast Food,Kanpur,16,1.7
+108,"Walla, Amble and Bhatti",Desserts,Mumbai,27,4.4
+109,Kala Ltd,Chinese,Kanpur,22,2.1
+110,Chawla-Jha,Indian,Mumbai,11,4.4
+111,"Saran, Bora and Dube",Indian,Kolkata,35,4.1
+112,Sharaf Ltd,Chinese,Delhi,45,2.0
+113,Barad-Chahal,Desserts,Chandigarh,19,2.5
+114,Bhagat and Sons,Chinese,Kolkata,28,1.5
+115,Bobal-Kari,Desserts,Kanpur,15,2.6
+116,Reddy-Rama,Desserts,Delhi,25,4.4
+117,Ravel-Sant,Desserts,Ahemdabad,20,4.0
+118,Badal-Ramachandran,Chinese,Chandigarh,20,1.7
+119,"Dani, Warrior and Ahuja",Desserts,Ahemdabad,19,3.9
+120,"Bhatnagar, Bath and Bora",Fast Food,Chennai,12,1.9
+121,Thakkar-Cherian,Fast Food,Hyderabad,14,2.1
+122,Mitra-Chadha,Chinese,Delhi,23,3.1
+123,Sarma-Raj,Italian,Jaipur,40,4.7
+124,Balasubramanian-Som,Indian,Delhi,30,1.4
+125,Walla and Sons,Desserts,Ahemdabad,27,4.3
+126,Raman PLC,Italian,Kolkata,44,3.3
+127,Dhawan-Misra,Fast Food,Ahemdabad,34,2.5
+128,"Prakash, Apte and Dhaliwal",Indian,Kanpur,26,2.5
+129,Barman Inc,Chinese,Kanpur,35,2.4
+130,"Ramesh, Yogi and Chada",Italian,Chandigarh,40,4.5
+131,Kade-Padmanabhan,Indian,Kanpur,18,2.8
+132,Sachar Ltd,Chinese,Mumbai,42,3.6
+133,"Dhar, Dyal and Gour",Chinese,Bangalore,21,1.6
+134,Krishnan and Sons,Desserts,Mumbai,24,2.7
+135,Golla Ltd,Italian,Mumbai,40,3.7
+136,"Bhagat, Shenoy and Bora",Fast Food,Hyderabad,20,3.6
+137,Bhavsar-Krishna,Fast Food,Delhi,25,1.2
+138,Hora Ltd,Desserts,Kolkata,20,1.5
+139,"Sur, Narayanan and Parikh",Desserts,Delhi,19,1.2
+140,Keer Inc,Italian,Bangalore,43,4.8
+141,Boase-Hari,Desserts,Kolkata,11,4.5
+142,Sunder-Seshadri,Italian,Mumbai,23,2.8
+143,Mohan-Dua,Fast Food,Chandigarh,20,1.9
+144,"Patla, Mutti and Sangha",Fast Food,Kolkata,19,4.2
+145,Agrawal LLC,Chinese,Kolkata,42,2.1
+146,Kant Ltd,Italian,Chandigarh,14,1.9
+147,"Sarin, Malhotra and Parsa",Fast Food,Bangalore,16,1.1
+148,Narula Group,Desserts,Kanpur,36,4.3
+149,Sehgal-Parmer,Desserts,Mumbai,21,2.9
+150,Sur-Chopra,Desserts,Kolkata,12,4.5
+151,Bumb LLC,Desserts,Kanpur,17,1.4
+152,Yohannan and Sons,Chinese,Kolkata,44,4.3
+153,Bose-Borra,Fast Food,Kanpur,36,2.5
+154,Tripathi Ltd,Indian,Kanpur,37,1.9
+155,Ravel PLC,Fast Food,Jaipur,32,3.4
+156,Bansal PLC,Desserts,Mumbai,37,1.5
+157,Zacharia-Sodhi,Fast Food,Hyderabad,15,2.1
+158,"Dixit, Pau and Ramanathan",Desserts,Jaipur,26,1.8
+159,Mannan and Sons,Indian,Kolkata,43,1.5
+160,Thaker-Uppal,Indian,Jaipur,23,3.8
+161,Ranganathan LLC,Italian,Jaipur,33,1.4
+162,"Anne, Khare and Gandhi",Fast Food,Ahemdabad,26,2.0
+163,"Dey, Sehgal and Dutta",Desserts,Jaipur,33,3.4
+164,Dhingra Ltd,Fast Food,Hyderabad,36,3.2
+165,"Sule, Parmer and Baria",Desserts,Chandigarh,21,2.5
+166,Sura and Sons,Desserts,Chandigarh,26,5.0
+167,Lalla LLC,Desserts,Chennai,35,3.9
+168,Basak Ltd,Indian,Hyderabad,38,4.1
+169,Vasa LLC,Chinese,Mumbai,23,3.0
+170,Singh-Sha,Italian,Kanpur,13,1.6
+171,Baral Ltd,Indian,Mumbai,19,2.9
+172,Chauhan-Verma,Desserts,Jaipur,15,1.3
+173,"Mahal, Lall and Ghosh",Chinese,Chennai,15,3.4
+174,Radhakrishnan-Pau,Fast Food,Jaipur,43,2.1
+175,"Brahmbhatt, Varughese and Krishnamurthy",Desserts,Delhi,21,3.6
+176,Kapoor-Varty,Fast Food,Delhi,22,4.4
+177,Pandit-Pai,Desserts,Pune,22,1.1
+178,Subramaniam-Ahuja,Desserts,Kanpur,43,3.8
+179,"Dewan, Sarraf and Gandhi",Desserts,Bangalore,12,2.4
+180,Bose PLC,Indian,Bangalore,15,5.0
+181,"Mand, Kakar and Doctor",Fast Food,Chennai,35,2.6
+182,Dugar LLC,Chinese,Kanpur,10,3.9
+183,"Dani, Karpe and Sachdeva",Indian,Mumbai,45,2.1
+184,Comar-Subramaniam,Desserts,Kolkata,32,2.4
+185,"Srinivas, Srinivas and Kade",Italian,Hyderabad,22,2.8
+186,"Edwin, Roy and Bains",Fast Food,Kolkata,10,2.0
+187,Bassi and Sons,Fast Food,Kanpur,16,3.2
+188,"Dyal, Desai and Vala",Desserts,Pune,31,4.8
+189,Din Inc,Desserts,Pune,44,4.3
+190,Kuruvilla and Sons,Desserts,Pune,38,4.9
+191,"Ravi, Bahl and Mander",Desserts,Chandigarh,25,4.0
+192,Kalita Group,Fast Food,Ahemdabad,39,4.6
+193,"Sinha, Subramaniam and Garde",Indian,Chandigarh,17,2.0
+194,Roy PLC,Fast Food,Ahemdabad,24,3.7
+195,Gopal PLC,Chinese,Chennai,36,4.8
+196,"Vaidya, Lalla and Ganesh",Desserts,Kanpur,10,3.8
+197,"Oommen, Setty and Biswas",Italian,Hyderabad,28,1.4
+198,Radhakrishnan Group,Italian,Mumbai,45,4.7
+199,Chopra Inc,Fast Food,Chennai,32,1.9
+200,Virk PLC,Desserts,Pune,21,4.8
