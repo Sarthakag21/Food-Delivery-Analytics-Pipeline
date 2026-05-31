@@ -504,10 +504,10 @@ SELECT * FROM food_delivery.gold_partner_performance ORDER BY global_speed_rank;
 *Data Engineering Project*
 
 <p>
-  <a href="https://github.com/sarthak-agarwal">
+  <a href="[https://github.com/sarthak-agarwal](https://github.com/Sarthakag21)">
     <img src="https://img.shields.io/badge/GitHub-sarthak--agarwal-181717?style=flat-square&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/sarthak-agarwal">
+  <a href="[https://linkedin.com/in/sarthak-agarwal](https://www.linkedin.com/in/sarthak-agarwal-171281200/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/>
   </a>
 </p>
